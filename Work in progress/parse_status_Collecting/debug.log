@@ -1,0 +1,9 @@
+[0920/080925.416:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/150456.369:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/153030.621:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/171517.077:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/172642.377:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/213615.086:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/224957.318:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0920/225816.865:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0922/015112.303:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0

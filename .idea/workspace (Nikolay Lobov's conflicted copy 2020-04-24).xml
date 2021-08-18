@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="121a747f-df8b-403a-8b39-0548e7d6af3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1akvizmY8iSOvoFaRKqluAfOPgd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Droid\Dropbox\Collect Tools\HS auto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HS email sender" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Collect Tools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HS auto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HS auto/HS email sender.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HS email sender" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121a747f-df8b-403a-8b39-0548e7d6af3d" name="Default Changelist" comment="" />
+      <created>1587292537573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587292537573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="119" key="#Inspections" timestamp="1587724950431">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="354" y="119" key="#Inspections/0.23.1440.822@0.23.1440.822" timestamp="1587724950431" />
+    <state x="445" y="313" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587732132546">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="445" y="313" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.827@0.23.1440.827" timestamp="1587732132546" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1587732445495">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1587719790123" />
+    <state x="221" y="72" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1587732445495" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HS auto/HS email sender.py</url>
+          <line>186</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

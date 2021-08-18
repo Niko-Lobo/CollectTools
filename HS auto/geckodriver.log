@@ -1,0 +1,47 @@
+1625500631803	geckodriver	INFO	Listening on 127.0.0.1:64148
+1625500632697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofilegZftyJ"
+1625500634139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofilegZftyJ/search.json.mozlz4", (void 0)))
+1625500637093	Marionette	INFO	Listening on port 64160
+1625500637125	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625573539370	geckodriver	INFO	Listening on 127.0.0.1:56607
+1625573540395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofileeD8xGW"
+1625573542145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofileeD8xGW/search.json.mozlz4", (void 0)))
+1625573547440	Marionette	INFO	Listening on port 56618
+1625573547481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625573581162	Marionette	INFO	Stopped listening on port 56618
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625573636894	geckodriver	INFO	Listening on 127.0.0.1:56781
+1625573636916	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofile61Xz7i"
+1625573637816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofile61Xz7i/search.json.mozlz4", (void 0)))
+1625573640717	Marionette	INFO	Listening on port 56790
+1625573640780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625573674816	Marionette	INFO	Stopped listening on port 56790
+1625578864240	Marionette	INFO	Stopped listening on port 64160
+1625581453338	geckodriver	INFO	Listening on 127.0.0.1:59154
+1625581453378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofileqyZf7H"
+1625581455030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cy/7c4n2qmd6r16dwkc8g1g1l340000gn/T/rust_mozprofileqyZf7H/search.json.mozlz4", (void 0)))
+1625581458349	Marionette	INFO	Listening on port 59163
+1625581458409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625595699803	Marionette	INFO	Stopped listening on port 59163
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
